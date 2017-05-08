@@ -108,8 +108,8 @@ You can find the project at: https://github.com/domoritz/leaflet-locatecontrol
                 // fillColor: '#FFB000'
             },
             /** The CSS class for the icon. For example fa-location-arrow or fa-map-marker */
-            icon: 'fa fa-map-marker',
-            iconLoading: 'fa fa-spinner fa-spin',
+            icon: 'fa fa-map-marker fa-fw',
+            iconLoading: 'fa fa-spinner fa-fw fa-spin',
             /** The element to be created for icons. For example span or i */
             iconElementTag: 'span',
             /** Padding around the accuracy circle. */
